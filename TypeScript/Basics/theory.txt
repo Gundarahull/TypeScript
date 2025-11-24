@@ -1,0 +1,4 @@
+>> TypeScript
+    tsc -w -p tsconfig.json // w is a watcher like nodemon
+
+    TypeScript is also a JavScript with Interfernce

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "module": "es2022",
+    "moduleResolution": "bundler",
+    "strict": true, //it will check all the code
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "useUnknownInCatchVariables": true, //to ctah in the Catch block also
+    "skipLibCheck": true,
+    "rootDir": "src", // from where need to check TypeScript is applicable
+    "outDir": "dist" //automatically develop, when we run it, here TS will convert into JS
+  },
+  "include": ["src"]
+}
