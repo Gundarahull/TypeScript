@@ -1,4 +1,4 @@
-// Number, String, Boolean, BigInt, Symbol,
+// Number, String, Boolean, BigInt, Symbol, null, undefined
 
 // Primitve DataTypes
 const num: number = 900;

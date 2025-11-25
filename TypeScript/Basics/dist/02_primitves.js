@@ -1,5 +1,5 @@
 "use strict";
-// Number, String, Boolean, BigInt, Symbol,
+// Number, String, Boolean, BigInt, Symbol, null, undefined
 // Primitve DataTypes
 const num = 900;
 const username = "looser";
